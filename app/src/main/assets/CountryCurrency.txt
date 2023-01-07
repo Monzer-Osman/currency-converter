@@ -1,0 +1,249 @@
+Algeria DZD د.ج
+Angola AOA Kz
+Benin XOF CF
+Botswana BWP PB
+Burkina Faso XOF CF
+Burundi BIF FB
+Cameroon XAF FC
+Cape Verde CVE Es
+Central African Republic XAF FC
+Chad XAF FC
+Comoros KMF CF
+Congo - Brazzaville XAF FC
+Congo - Kinshasa CDF CF
+Côte d’Ivoire XOF CF
+Djibouti DJF DF
+Egypt EGP E£
+Equatorial Guinea XAF FC
+Eritrea ERN Nf
+Eswatini SZL ES
+Ethiopia ETB Br
+Gabon XAF FC
+Gambia GMD DG
+Ghana GHS GH
+Guinea GNF FG
+Guinea-Bissau XOF CF
+Kenya KES Ks
+Lesotho LSL ML
+Liberia LRD L$
+Libya LYD ل.
+Madagascar MGA Ar
+Malawi MWK MK
+Mali XOF CF
+Mauritania MRU UM
+Mauritius MUR ₨M
+Mayotte EUR €E
+Morocco MAD د.م
+Mozambique MZN MT
+Namibia NAD N$
+Niger XOF CF
+Nigeria NGN ₦N
+Rwanda RWF FR
+Réunion EUR €E
+Senegal XOF CF
+Seychelles SCR SR
+Sierra Leone SLL Le
+Somalia SOS Sh
+South Africa ZAR RS
+South Sudan SSP SS
+St. Helena SHP £S
+Sudan SDG SD
+São Tomé & Príncipe STN Db
+Tanzania TZS Ts
+Togo XOF CF
+Tunisia TND د.ت
+Uganda UGX US
+Western Sahara MAD د.
+Zambia ZMW ZK
+Zimbabwe ZWL Z$
+Bouvet Island NOK kr
+French Southern Territories EUR €E
+Heard & McDonald Islands AUD A$
+South Georgia & South Sandwich Islands GBP £B
+Afghanistan AFN ؋A
+Armenia AMD ֏A
+Azerbaijan AZN ₼A
+Bahrain BHD د.ب
+Bangladesh BDT ৳B
+Bhutan BTN Nu
+British Indian Ocean Territory USD $
+Brunei BND B$
+Cambodia KHR ៛C
+China CNY 元C
+Christmas Island AUD A$
+Cocos (Ke el
+Georgia GEL ₾G
+Hong Kong SAR C
+India INR ₹I
+Indonesia IDR Rp
+Iran IRR ﷼I
+Iraq IQD د.ع
+Israel ILS ₪I
+Japan JPY ¥J
+Jordan JOD JD
+Kazakhstan KZT ₸K
+Kuwait KWD د.ك
+Kyrgyzstan KGS со
+Laos LAK ₭L
+Lebanon LBP LL
+Macao SAR C
+Malaysia MYR RM
+Maldives MVR Rf
+Mongolia MNT ₮M
+Myanmar (Bu rm
+Nepal NPR ₨N
+North Korea KPW ₩N
+Oman OMR ر.ع
+Pakistan PKR ₨P
+Palestinian Territories ILS ₪I
+Philippines PHP ₱P
+Qatar QAR ر.ق
+Saudi Arabia SAR ر.س
+Singapore SGD S$
+South Korea KRW ₩S
+Sri Lanka LKR ₨S
+Syria SYP £S
+Taiwan TWD NT
+Tajikistan TJS SM
+Thailand THB ฿T
+Turkey TRY ₺T
+Turkmenistan TMT TT
+United Arab Emirates AED د.ا
+Uzbekistan UZS лв
+Vietnam VND ₫V
+Yemen YER ر.ي
+Albania ALL LA
+Andorra EUR €E
+Austria EUR €E
+Belarus BYN Br
+Belgium EUR €E
+Bosnia & Herzegovina BAM KM
+Bulgaria BGN лв
+Croatia HRK kn
+Cyprus EUR €E
+Czechia CZK Kč
+Denmark DKK kr
+Estonia EUR €E
+Faroe Islands DKK kr
+Finland EUR €E
+France EUR €E
+Germany EUR €E
+Gibraltar GIP £G
+Greece EUR €E
+Guernsey GBP £B
+Hungary HUF Ft
+Iceland ISK kr
+Ireland EUR €E
+Isle of Man GBP £B
+Italy EUR €E
+Jersey GBP £B
+Kosovo EUR €E
+Latvia EUR €E
+Liechtenstein CHF SF
+Lithuania EUR €E
+Luxembourg EUR €E
+Malta EUR €E
+Moldova MDL Mo
+Monaco EUR €E
+Montenegro EUR €E
+Netherlands EUR €E
+North Macedonia MKD де
+Norway NOK kr
+Poland PLN zł
+Portugal EUR €E
+Romania RON le
+Russia RUB ₽R
+San Marino EUR €E
+Serbia RSD ди
+Slovakia EUR €E
+Slovenia EUR €E
+Spain EUR €E
+Svalbard & Jan Mayen NOK kr
+Sweden SEK kr
+Switzerland CHF SF
+Ukraine UAH ₴U
+United Kingdom GBP £B
+Vatican City EUR €E
+Åland Islands EUR €E
+Anguilla XCD EC
+Antigua & Barbuda XCD EC
+Aruba AWG Af
+Bahamas BSD B$
+Barbados BBD $B
+Belize BZD BZ
+Bermuda BMD BD
+British Virgin Islands USD $
+Canada CAD C$
+Caribbean Netherlands USD $
+Cayman Islands KYD CI
+Costa Rica CRC ₡C
+Cuba CUP Cu
+Curaçao ANG NA
+Dominica XCD EC
+Dominican Republic DOP RD
+El Salvador USD $
+Greenland DKK kr
+Grenada XCD EC
+Guadeloupe EUR €E
+Guatemala GTQ QG
+Haiti HTG GH
+Honduras HNL LH
+Jamaica JMD J$
+Martinique EUR €E
+Mexico MXN Me
+Montserrat XCD EC
+Nicaragua NIO C$
+Panama PAB B/
+Puerto Rico USD $
+Sint Maarten ANG NA
+St.Barthélemy EUR €E
+St.Kitts & Nevis XCD EC
+St.Lucia XCD EC
+St.Martin EUR €E
+St.Pierre & Miquelon EUR €E
+St.Vincent & Grenadines XCD EC
+Trinidad & Tobago TTD TT
+Turks & Caicos Islands USD $
+U.S. Virgin Islands USD $
+United States USD $
+American Samoa USD $
+Australia AUD A$
+Cook Islands NZD NZ
+Fiji FJD FJ
+French Polynesia XPF FC
+Guam USD $
+Kiribati AUD A$
+Marshall Islands USD $
+Micronesia USD $
+Nauru AUD A$
+New Caledonia XPF FC
+New Zealand NZD NZ
+Niue NZD NZ
+Norfolk Island AUD A$
+Northern Mariana Islands USD $
+Palau USD $
+Papua New Guinea PGK KP
+Pitcairn Islands NZD NZ
+Samoa WST WS
+Solomon Islands SBD SI
+Timor-Leste USD $
+Tokelau NZD NZ
+Tonga TOP T$
+Tuvalu AUD A$
+U.S. Outlying Islands USD $
+Vanuatu VUV VT
+Wallis & Futuna XPF FC
+Argentina ARS $A
+Bolivia BOB $b
+Brazil BRL R$
+Chile CLP CL
+Colombia COP CO
+Ecuador USD $
+Falkland Islands FKP £F
+French Guiana EUR €E
+Guyana GYD G$
+Paraguay PYG ₲P
+Peru PEN S
+Suriname SRD SR
+Uruguay UYU $
+Venezuela VES Bs
